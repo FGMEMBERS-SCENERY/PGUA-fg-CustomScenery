@@ -1,5 +1,9 @@
-PGUA ==Andersen AirForce Base; Guam - FG  Custom Scenery
+PGUA == Andersen Air Force Base; Guam - FG  Custom Scenery
 =========================================================
+
+Overview
+-------------------------
+This repository is a customized version for FlightGear's scenery of Andersen Air Force Base (PGUA) including parking positions, a whole new layout and some objects.
 
 Installation instructions
 -------------------------
@@ -10,10 +14,10 @@ Installation instructions
 2. Put `OpenRadar/PGUA.xml` in the directory where you uncompressed
    OpenRadar:  /data/routes/PGUA/PGUA.xml`.
 
-*Ground networks:*
+*Ground networks and tower position:*
 
-1. Put `Airports/P/G/U/PGUA.groundnet.xml` in
-   `$FG_SCENERY/Airports/P/G/U/PGUA.groundnet.xml`.
+1. Put `Airports/P/G/U/PGUA.groundnet.xml`and `Airports/P/G/U/PGUA.twr.xml` in
+   `$FG_SCENERY/Airports/P/G/U/PGUA.groundnet.xml` and `$FG_SCENERY/Airports/P/G/U/PGUA.twr.xml`.
 
 Licenses
 --------
