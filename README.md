@@ -27,4 +27,4 @@ Licenses
 *  The ground networks are licensed under the terms of the GPLv2 or later.
   
 
-:copyright: Israel Hernandez (IHAM-COL)  :copyright: J Maverick 16
+:copyright: 2015 Israel Hernandez (IAHM-COL)  :copyright: 2015 J Maverick 16
