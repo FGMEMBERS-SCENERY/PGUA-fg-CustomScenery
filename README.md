@@ -3,7 +3,8 @@ PGUA == Andersen Air Force Base; Guam - FG  Custom Scenery
 
 Overview
 -------------------------
-This repository is a customized version for FlightGear's scenery of Andersen Air Force Base (PGUA) including parking positions, a whole new layout and some objects.
+This repository is a customized version for FlightGear's scenery of Andersen Air Force Base (PGUA), Guam including lots of parking positions, a whole new layout and some objects.
+[Official base website](www.andersen.af.mil).
 
 Installation instructions
 -------------------------
@@ -24,3 +25,6 @@ Licenses
 
 *  The OpenRadar route files are licensed under the terms of the GPLv3 or later.
 *  The ground networks are licensed under the terms of the GPLv2 or later.
+  
+
+:copyright: Israel Hernandez (IHAM-COL)  :copyright: J Maverick 16
