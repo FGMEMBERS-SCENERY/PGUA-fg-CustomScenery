@@ -58,6 +58,29 @@ OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 144.93491777 13.5774211
 OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 144.93411258 13.57710369 170.2278 292.0 0.0 -0.0
 OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 144.93330542 13.57675603 169.3298 292.0 0.0 -0.0
 
+OBJECT_STATIC PGUA/Objects/klsv-tower.xml 144.93059882 13.57536456 167.5731 202.2 0.0 -0.0
+OBJECT_STATIC PGUA/Objects/klsv-baseops.xml 144.92751440 13.57501144 167.0835 337.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/BAK12.xml 144.92064408 13.57715571 163.7618 293.6 -0.0 --0.1
+OBJECT_SHARED Models/Airport/BAK12.xml 144.94060808 13.58590665 176.0913 294.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/BAK12.xml 144.93821744 13.59025015 177.3496 296.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/BAK12.xml 144.91961239 13.58210498 161.1853 296.7 0.0 --0.3
+OBJECT_SHARED Models/Military/KOFF_Hanger.xml 144.93411220 13.57938916 170.5405 292.4 0.0 -0.0
+OBJECT_SHARED Models/Military/KOFF_Hanger.xml 144.93331966 13.57906546 170.4358 293.2 0.0 -0.0
+OBJECT_SHARED Models/Military/hangar-b2ss-1.xml 144.93214449 13.57869943 169.8628 112.5 0.0 -0.0
+
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91795454 13.57261698 164.1323 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91810208 13.57269463 164.1483 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91825438 13.57277154 164.1720 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91847241 13.57286234 164.1969 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91861281 13.57292359 164.2148 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91875905 13.57297978 164.2256 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91897397 13.57310827 164.2490 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91912093 13.57317604 164.2652 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91926689 13.57323617 164.3011 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91946733 13.57334673 164.3140 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91961320 13.57341865 164.3358 24.0 0.0 -0.0
+OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91975646 13.57348415 164.3584 24.0 0.0 -0.0
+
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 144.91931660 13.58788431 159.7964 28.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 144.91992536 13.58809765 160.3175 25.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 144.91873826 13.58763252 159.2289 36.0 0.0 -0.0
@@ -146,3 +169,6 @@ OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 144.91905667 13.57231329 164
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 144.91858760 13.57214213 164.3941 24.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 144.91811110 13.57189992 164.3564 24.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 144.91752164 13.57167668 164.3401 24.0 0.0 -0.0
+
+#MainGate sign: Welcome to Andersen AFB
+OBJECT_STATIC PGUA/PGUA_sign.xml 144.90380631 13.56614829 186.7912 48.0 0.0 -0.0
