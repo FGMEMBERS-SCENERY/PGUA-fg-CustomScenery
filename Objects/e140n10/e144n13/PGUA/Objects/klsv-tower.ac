@@ -19,7 +19,7 @@ kids 27
 OBJECT poly
 name "RedLight.1"
 loc 0 -5.6345e-08 0
-texture "klsv-red-light.rgb"
+texture "klsv-red-light.png"
 crease 45.000000
 numvert 4
 3.71875 3.71875 0
@@ -43,7 +43,7 @@ kids 0
 OBJECT poly
 name "RedLight.2"
 loc 0 -5.6345e-08 0
-texture "klsv-red-light.rgb"
+texture "klsv-red-light.png"
 crease 45.000000
 numvert 4
 -3.71875 3.71875 0
@@ -67,7 +67,7 @@ kids 0
 OBJECT poly
 name "RedLight.3"
 loc 0 -5.6345e-08 0
-texture "klsv-red-light.rgb"
+texture "klsv-red-light.png"
 crease 45.000000
 numvert 4
 3.71875 3.71875 0
@@ -91,7 +91,7 @@ kids 0
 OBJECT poly
 name "RedLight.4"
 loc 0 -5.6345e-08 0
-texture "klsv-red-light.rgb"
+texture "klsv-red-light.png"
 crease 45.000000
 numvert 4
 -3.71875 3.71875 0
@@ -231,7 +231,7 @@ kids 0
 OBJECT poly
 name "windows"
 loc 0.211459 22.4009 2.85663
-texture "tower-windows.rgb"
+texture "tower-windows.png"
 crease 45.000000
 numvert 24
 3.83905 1.48712 -4.47377
@@ -305,7 +305,7 @@ kids 0
 OBJECT poly
 name "frame"
 loc 0.0122874 32.3104 0.0176244
-texture "sand2.rgb"
+texture "sand2.png"
 crease 14.000000
 numvert 48
 0.0917936 1.09519 -3.00447
@@ -649,7 +649,7 @@ kids 0
 OBJECT poly
 name "logo"
 loc -0.684443 16.4205 0.123182
-texture "aircombatcmd-logo.rgb"
+texture "aircombatcmd-logo.png"
 crease 45.000000
 numvert 168
 3.36518 -1.19752 0.00311533
@@ -1990,7 +1990,7 @@ kids 0
 OBJECT poly
 name "tower-buildings-dark"
 loc -5.11217 17.4472 5.86764
-texture "sand2.rgb"
+texture "sand2.png"
 crease 45.000000
 numvert 249
 -1.05474 -17.7095 5.41372
@@ -3946,7 +3946,7 @@ kids 0
 OBJECT poly
 name "tower-bright"
 loc 0.0117393 13.9361 0.02742
-texture "sand.rgb"
+texture "sand.png"
 crease 45.000000
 numvert 80
 -2.7552 8.60971 -2.58519
@@ -6487,7 +6487,7 @@ kids 0
 OBJECT poly
 name "block"
 loc -4.31312 -3.53175 3.42905
-texture "sand.rgb"
+texture "sand.png"
 crease 45.000000
 numvert 14
 10.0484 3.73635 11.9155

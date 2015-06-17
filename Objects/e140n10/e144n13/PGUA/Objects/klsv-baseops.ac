@@ -19,7 +19,7 @@ kids 17
 OBJECT poly
 name "left-building"
 loc -32.0557 1.70962 -0.80225
-texture "textures-light-sand.rgb"
+texture "textures-light-sand.png"
 crease 45.000000
 numvert 5
 3.39867 0.862841 4.27719
@@ -18182,7 +18182,7 @@ kids 0
 OBJECT poly
 name "logo"
 loc -0.579612 5.16914 6.58738
-texture "klsv-logos.rgb"
+texture "klsv-logos.png"
 crease 45.000000
 numvert 4
 -8.42027 -0.465237 0
@@ -19675,7 +19675,7 @@ kids 0
 OBJECT poly
 name "main-building"
 loc -0.0574532 2.88546 1.17272
-texture "textures-light-sand.rgb"
+texture "textures-light-sand.png"
 crease 180.000000
 numvert 328
 19.1205 1.87935 -1.65647
@@ -22243,7 +22243,7 @@ kids 0
 OBJECT poly
 name "main-building-windows"
 loc 0.0338516 1.8909 1.17272
-texture "windows.rgb"
+texture "windows.png"
 crease 180.000000
 numvert 80
 11.2452 0.900585 -2.68545
@@ -54280,7 +54280,7 @@ kids 0
 OBJECT poly
 name "left-building"
 loc -32.0557 1.70962 -0.80225
-texture "textures-light-sand.rgb"
+texture "textures-light-sand.png"
 crease 45.000000
 numvert 22
 -3.67369 0.910966 4.5381
@@ -54484,7 +54484,7 @@ kids 0
 OBJECT poly
 name "main-roof"
 loc -6.19126 3.12212 4.84622
-texture "textures-light-sand.rgb"
+texture "textures-light-sand.png"
 crease 45.000000
 numvert 38
 -3.88711 -0.450145 -15.898
