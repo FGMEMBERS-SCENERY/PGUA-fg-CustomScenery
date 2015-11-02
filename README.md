@@ -1,6 +1,8 @@
 PGUA == Andersen Air Force Base; Guam - FG  Custom Scenery
 =========================================================
 
+![USA TOUR READY](https://raw.githubusercontent.com/FGMEMBERS-SCENERY/PGUA-fg-CustomScenery/master/usatour.png)
+
 Overview
 -------------------------
 This repository is a customized version for FlightGear's scenery of Andersen Air Force Base (PGUA), Guam including lots of parking positions, a whole new layout and some objects.
