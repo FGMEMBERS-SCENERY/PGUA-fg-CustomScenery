@@ -57,6 +57,12 @@ OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 144.93572037 13.5777462
 OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 144.93491777 13.57742116 169.9627 292.0 0.0 -0.0
 OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 144.93411258 13.57710369 170.2278 292.0 0.0 -0.0
 OBJECT_SHARED Models/Military/h-shaped-appt-building.xml 144.93330542 13.57675603 169.3298 292.0 0.0 -0.0
+OBJECT_STATIC PGUA/fguk-board06.xml 144.91501808 13.57730969 161.0629 24.8 0.0 -0.0
+OBJECT_SHARED Models/AirBase/small-hangars-sand-2pces-D.ac 144.92028565 13.58831553 160.0143 114.7 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-west-tanks.xml 144.92083880 13.58954735 162.0929 118.4 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-west-tanks.xml 144.92160277 13.58994640 162.7199 117.8 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-west-tanks-central.xml 144.92188585 13.58945822 162.7503 298.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-west-tanks-central.xml 144.92111569 13.58908364 161.7380 297.1 0.0 -0.0
 
 OBJECT_STATIC PGUA/Objects/klsv-tower.xml 144.93059882 13.57536456 167.5731 202.2 0.0 -0.0
 OBJECT_STATIC PGUA/Objects/klsv-baseops.xml 144.92751440 13.57501144 167.0835 337.2 0.0 -0.0
