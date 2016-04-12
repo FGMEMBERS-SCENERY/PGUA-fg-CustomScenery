@@ -10,6 +10,7 @@ This repository is a customized version for FlightGear's scenery of Andersen Air
 
 Installation instructions
 -------------------------
+THis scenery pack requires the AirBase models pack available here: https://github.com/JMaverick16/AirBase_models-pack
 
 *OpenRadar route files:*
 
@@ -29,4 +30,4 @@ Licenses
 *  The ground networks are licensed under the terms of the GPLv2 or later.
   
 
-:copyright: 2015 Israel Hernandez (IAHM-COL)  :copyright: 2015 J Maverick 16
+:copyright: 2015 Israel Hernandez (IAHM-COL)  :copyright: 2016 J Maverick 16
