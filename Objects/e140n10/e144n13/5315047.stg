@@ -122,6 +122,24 @@ OBJECT_SHARED Models/Airport/generic-trailer-GPU.xml 144.91797915 13.57943584 16
 OBJECT_SHARED Models/AirBase/klsv-workshop-4-red.xml 144.93748037 13.57830894 170.0986 24.0 0.0 -0.0
 OBJECT_SHARED Models/AirBase/small-hangars-sand-2pces-D.ac 144.93033329 13.57697625 168.5195 296.7 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-small-building-1.xml 144.92807741 13.57498863 166.9330 296.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-cross-building.xml 144.93403160 13.57618485 168.5525 22.2 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-cross-building.xml 144.93562664 13.57682740 169.4719 22.1 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-building-1.xml 144.93503041 13.57860067 170.4388 295.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-firestation-2.xml 144.93258816 13.57763385 169.0860 295.3 0.0 -0.0
+OBJECT_SHARED Models/Airport/beacon.xml 144.92871281 13.58484896 168.8483 312.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/blast-deflector63m.xml 144.93240769 13.58049986 170.8956 293.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/blast-deflector63m.xml 144.93187492 13.58027055 170.4493 293.9 0.5 -0.0
+OBJECT_SHARED Models/Military/us-hush-house-hangar-sand.xml 144.92482846 13.58880949 165.4067 210.8 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-workshop-2.xml 144.93102157 13.57553971 166.8427 293.6 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-building-helos.xml 144.92925748 13.57538547 167.4621 204.0 0.0 -0.0
+OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 144.92728673 13.57491186 166.6261 64.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 144.93109063 13.57715161 168.6337 24.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 144.93175030 13.57745538 168.9738 24.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-workshop-dual-red.xml 144.93228928 13.57655231 168.4095 21.9 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-radio-station-south-1.xml 144.93170586 13.57625910 167.9269 296.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-grp.xml 144.93197922 13.57638547 168.1688 25.5 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-building-a10.xml 144.92998644 13.57595605 167.7084 24.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-small-vehicle-hangar.xml 144.94251271 13.58164769 171.2168 148.0 0.0 -0.0
 
 OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91795454 13.57261698 164.1323 24.0 0.0 -0.0
 OBJECT_SHARED Models/Military/military-grey-hangar-1place.ac 144.91810208 13.57269463 164.1483 24.0 0.0 -0.0
