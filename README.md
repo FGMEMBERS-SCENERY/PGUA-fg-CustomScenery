@@ -28,6 +28,7 @@ Licenses
 
 *  The OpenRadar route files are licensed under the terms of the GPLv3 or later.
 *  The ground networks are licensed under the terms of the GPLv2 or later.
+*  The 3D objects and models are licensed under the terms of the GPLv2 or later.
   
 
 :copyright: 2015 Israel Hernandez (IAHM-COL)  :copyright: 2016 J Maverick 16 (J-Mav16)
