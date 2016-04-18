@@ -96,6 +96,11 @@ OBJECT_SHARED Models/AirBase/klsv-west-tanks-central.xml 144.91280277 13.5719513
 OBJECT_SHARED Models/Communications/mil-antena-61m.xml 144.92251632 13.59064718 164.1630 24.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/localizer.xml 144.95092043 13.59040351 150.7269 284.0 -0.0 -1.2
 OBJECT_SHARED Models/AirBase/klsv-east-big-hangar.xml 144.93320521 13.57822269 169.8522 294.6 0.0 -0.0
+OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac 144.94243139 13.58147008 170.8934 332.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/small-hangar-simple-red.ac 144.93144348 13.57729419 168.8980 294.7 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-building-2.xml 144.92872606 13.57490463 166.6610 24.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml 144.92112884 13.57504870 164.5882 24.9 0.0 -0.0
+OBJECT_SHARED Models/Military/humvee-pickup-odrab-low-poly.xml 144.93064162 13.57525735 167.1741 292.0 0.0 -0.0
 
 OBJECT_SHARED Models/AirBase/klsv-storagetank-8m-dual-red.xml 144.91058604 13.57127561 168.7683 24.0 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-storagetank-8m-dual-red.xml 144.91037072 13.57117556 169.2673 24.0 0.0 -0.0
